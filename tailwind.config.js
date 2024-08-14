@@ -5,7 +5,14 @@ export default {
     "./src/**/*.{js,ts,jsx,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      colors: {
+        "uiblack": "#343434",
+        "uibrown": "#8E8B82",
+        "uicream": "#E9DCBE",
+        "uismoke": "#F3F3F3",
+      }
+    },
   },
   plugins: [],
 }
