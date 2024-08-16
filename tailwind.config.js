@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       colors: {
-        "uiblack": "#343434",
-        "uibrown": "#8E8B82",
-        "uicream": "#E9DCBE",
-        "uismoke": "#F3F3F3",
+        "uiblack": "#303841",
+        "uigrey": "#3A4750",
+        "uiyellow": "#F6C90E",
+        "uismoke": "#EEEEEE",
       }
     },
   },
